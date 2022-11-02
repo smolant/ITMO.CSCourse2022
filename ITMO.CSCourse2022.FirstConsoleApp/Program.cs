@@ -15,7 +15,6 @@ namespace ITMO.CSCourse2022.FirstConsoleApp
 
             int c = a + b;
 
-            //Console.WriteLine("Hello, World");
             Console.WriteLine("Result = {0}", c);
 
             Console.ReadKey();
